@@ -9,9 +9,10 @@ The aim is to understand what drives higher life expectancy across different cou
 - Excel
 
 ## 📊 Key Insights
-- Higher GDP and education levels are strongly correlated with longer life expectancy.
-- Moderate alcohol consumption showed a positive relationship, possibly reflecting lifestyle patterns in developed countries.
-- Schooling had the most statistically significant effect.
+-GDP, education, and BMI significantly boost life expectancy.
+-Vaccination coverage positively impacts longevity.
+-Surprisingly, alcohol consumption showed no significant impact.
+-The analysis showed big differences in life expectancy between rich and poor countries.
 
 ## 📁 Project Structure
 - `life_expectancy.ipynb`: Main analysis notebook
